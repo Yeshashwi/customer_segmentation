@@ -1,0 +1,17 @@
+CustomerID,Age,AnnualIncome_INR,PurchaseFrequency,AvgOrderValue_INR,PreferredCategory,Region
+C001,24,480000,14,1800,Fashion,South
+C002,38,1850000,9,8500,Electronics,West
+C003,52,2400000,4,14500,Home & Kitchen,North
+C004,22,360000,18,950,Groceries,East
+C005,31,1200000,11,4200,Electronics,South
+C006,45,2100000,6,11200,Home & Kitchen,West
+C007,27,720000,15,2100,Fashion,North
+C008,35,1550000,10,5600,Electronics,East
+C009,21,300000,20,750,Groceries,South
+C010,49,2650000,5,15800,Home & Kitchen,West
+C011,29,960000,13,3100,Fashion,South
+C012,41,1950000,8,9200,Electronics,North
+C013,26,600000,16,1450,Groceries,West
+C014,55,2250000,3,13000,Home & Kitchen,East
+C015,33,1400000,12,4800,Fashion,South
+C016,23,420000,17,1100,Groceries,North
